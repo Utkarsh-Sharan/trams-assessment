@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        gerbil: ["Gerbil", "sans-serif"]
+        gerbil: ["Gerbil", "sans-serif"],
+        satoshi: ["Satoshi", "sans-serif"],
       }
     },
   },
