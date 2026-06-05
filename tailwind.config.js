@@ -14,8 +14,10 @@ export default {
         "100": "28rem",
         "104": "32rem",
       },
-      backgroundColor: {
-        primary: "#D7EEDD",
+      colors: {
+        brand: {
+          primary: "#D7EEDD",
+        },
       },
     },
   },
