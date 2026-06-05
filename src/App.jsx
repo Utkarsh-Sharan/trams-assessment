@@ -1,4 +1,5 @@
 import Faq from "./components/faq/Faq.jsx";
+import Footer from "./components/footer/Footer.jsx";
 import HeroOne from "./components/hero-1/HeroOne.jsx";
 import HeroTwo from "./components/hero-2/HeroTwo.jsx";
 import Navbar from "./components/Navbar.jsx";
@@ -16,6 +17,8 @@ function App() {
       <Faq />
 
       <Reviews />
+
+      <Footer />
     </>
   );
 }

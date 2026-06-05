@@ -13,7 +13,10 @@ export default {
       inset: {
         "100": "28rem",
         "104": "32rem",
-      }
+      },
+      backgroundColor: {
+        primary: "#D7EEDD",
+      },
     },
   },
   plugins: [],
