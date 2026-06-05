@@ -2,7 +2,7 @@ import ImageSet from "./ImageSet.jsx";
 
 const HeroOne = () => {
   return (
-    <section className='flex flex-col justify-center items-center text-center pt-20'>
+    <section className='mt-40 h-52 flex flex-col justify-center items-center text-center pt-20'>
         <h1 className='text-7xl font-gerbil w-9/12'>
             The thinkers and doers were changing the status Quo with
         </h1>
